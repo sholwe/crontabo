@@ -1,4 +1,5 @@
 #Crontabo
+
 This farcical tool is in a similar genre as "DeCSS", the tool which removes CSS from web pages.
 It was created in response to a specific hosting provider who uses shilling to attempt to both
 create SEO and discount unhappy clients' complaints.  Hopefully it ends up in common vernacular.
